@@ -9,7 +9,7 @@ Store embeddings in a FAISS index
 Perform fast similarity search  
 Retrieve the most relevant documents for a given query  
 
-🛠 Tech Stack
+🛠 Tech Stack  
 Python  
 Cohere API  
 FAISS  
